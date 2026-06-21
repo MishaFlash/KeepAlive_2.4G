@@ -1,0 +1,4 @@
+*.exe linguist-vendored
+*.dll linguist-vendored
+*.ico linguist-vendored
+*.png linguist-vendored
