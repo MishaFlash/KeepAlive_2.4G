@@ -7,7 +7,7 @@ Many 2.4 GHz wireless headphones with a USB dongle or Bluetooth headphones autom
 You have to constantly reconnect them manually, which is annoying, especially when they're OEM headphones without its own software.
 
 ## The Solution
-KeepAlive sends an inaudible audio pulse every N seconds.
+KeepAlive sends an inaudible audio pulse every 299 seconds.
 The headphones "think" there is sound playing and stay connected.
 
 ## How to Use
