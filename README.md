@@ -11,7 +11,7 @@ KeepAlive sends an inaudible audio pulse every N seconds.
 The headphones "think" there is sound playing and stay connected.
 
 ## How to Use
-1. Download `KeepAlive24.exe` from the [Releases](https://github.com/...) section.
+1. Download `KeepAlive 2.4G.zip` from the [Releases](https://github.com/...) section and unzip it.
 2. Before launching, select your headphones as the output device in Windows.
 3. Launch the app, click "Run".
 4. Minimize to system tray by clicking "Hide" — the app runs quietly in the background.
